@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superhost-3000/proxy-dannyhannyford.git"
+    "url": "git+https://github.com/souperhost-3000/proxy-dannyhannyford.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/superhost-3000/proxy-dannyhannyford/issues"
+    "url": "https://github.com/souperhost-3000/proxy-dannyhannyford/issues"
   },
-  "homepage": "https://github.com/superhost-3000/proxy-dannyhannyford#readme",
+  "homepage": "https://github.com/souperhost-3000/proxy-dannyhannyford#readme",
   "dependencies": {
   },
   "devDependencies": {
