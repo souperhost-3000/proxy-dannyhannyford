@@ -12,8 +12,8 @@ app.use((req, res, next) => {
   next();
 });
 
-app.get('/api/listings', (req, res) => {
-  axios.get('http://localhost:3007/api/listings')
+app.get('/', (req, res) => {
+  axios.get('http://34.208.9.166//api/listings')
     .then(({ data }) => {
       res.send(data);
     })
